@@ -1,5 +1,5 @@
 # netclive-task-assignment-application
-Helps companies manage task assignment to staffs. Following a hierarchical organizational approach, from general managers, to managers and to workers, some privileges are given to certain hierarchies.
+Helps companies manage task assignments to staffs. Following a hierarchical organizational approach, from general managers, to managers and to workers, some privileges are given to certain hierarchies.
 
 # What To Learn
 * Proper use of OOP and professional coding style
